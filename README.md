@@ -25,3 +25,7 @@ Welcome to the Introduction! Here you will learn to play as a T-Cell.
 * Left-Mouse is used to attack
 * Right-Mouse is used to block
 * E is used to interact
+
+```
+Congratulations on completing your training. You have a lot of potential. We hope you use it wisely.
+```
