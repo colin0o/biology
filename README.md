@@ -15,3 +15,13 @@ The B-Cell is best at supporting its allies, as it has medic kits and
 ```
 Welcome to the Introduction! Here you will learn to play as a T-Cell.
 ```
+
+* W is used to walk forward
+* S is used to walk backward
+* A is used to strafe left
+* D is used to strafe right
+* Left-Shift is used to sprint
+* Left-Control is used to crouch
+* Left-Mouse is used to attack
+* Right-Mouse is used to block
+* E is used to interact
