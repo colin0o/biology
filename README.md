@@ -31,3 +31,7 @@ Congratulations on completing your training. You have a lot of potential. We hop
 ```
 
 # Level 1
+
+```
+In your first mission you will have to eliminate Sephiroth and his guards. They are spread out all accross the city. Good luck!
+```
