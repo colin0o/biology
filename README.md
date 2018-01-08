@@ -1,6 +1,6 @@
 # T-Cell and B-Cell "Video Game" Project
 
-The game loads up and the user has the option to choose between playing as a [T-Cell](https://github.com/colin0o/biology#t-cell) or a [B-Cell](https://github.com/colin0o/biology#b-cell). We will be selecting the T-Cell for this project. After character selection, the game loads up the [Introduction](https://github.com/colin0o/biology#the-introduction). After the Introduction, the game will load up [Level 1]().
+The game loads up and the user has the option to choose between playing as a [T-Cell](https://github.com/colin0o/biology#t-cell) or a [B-Cell](https://github.com/colin0o/biology#b-cell). We will be selecting the T-Cell for this project. After character selection, the game loads up the [Introduction](https://github.com/colin0o/biology#the-introduction). After the Introduction, the game will load up [Level 1](https://github.com/colin0o/biology#level-1).
 
 # T-Cell
 
