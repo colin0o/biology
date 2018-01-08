@@ -1,6 +1,6 @@
 # T-Cell and B-Cell "Video Game" Project
 
-The game loads up and the user has the option to choose between playing as a [T-Cell](https://github.com/colin0o/biology#t-cell) or a [B-Cell](https://github.com/colin0o/biology#b-cell). We will be selecting the T-Cell for this project. After character selection, the game loads up the [Introduction](https://github.com/colin0o/biology#the-introduction). After the Introduction, the game will load up [Level 1](https://github.com/colin0o/biology#level-1).
+The game loads up and the user has the option to choose between playing as a [T-Cell](https://github.com/colin0o/biology#t-cell) or a [B-Cell](https://github.com/colin0o/biology#b-cell). We will be selecting the T-Cell for this project. After character selection, the game loads up the [Introduction](https://github.com/colin0o/biology#the-introduction). After the Introduction, the game will load up [Level 1](https://github.com/colin0o/biology#level-1). During Level 1 you will have kill 17 guards before Sepiroth will spawn in to be faught, leaving 13 more guards to be killed before you can exit the level and progress.
 
 # T-Cell
 
@@ -33,5 +33,5 @@ Congratulations on completing your training. You have a lot of potential. We hop
 # Level 1
 
 ```
-In your first mission you will have to eliminate Sephiroth and his guards. They are spread out all accross the city. Good luck!
+In your first mission you will have to eliminate Sephiroth and his guards. They are spread out all across the city. Good luck!
 ```
